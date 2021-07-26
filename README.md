@@ -102,14 +102,25 @@ import hashlib
 ```
 cd desktop
 
-git clone https://github.com/nataliaburrey/Machine_Learning_Trading_Bot.git
+git clone https://github.com/nataliaburrey/blockchain_based_ledger.git
 ```
 
 now you can find repo on your desktop
 
 
-* Choose [ machine_learning_trading_bot.ipynb ] file to see the Jupyter Notebook with code.
+* Choose [ pychain.py ] file to see the file in VS code application .
 
+
+#### Run streamlit
+
+1. In the terminal, navigate to the repository folder
+
+2. In the terminal, run the Streamlit application by running the command
+
+```
+streamlit run pychain.py
+
+```
 
 
 
