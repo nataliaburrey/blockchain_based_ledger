@@ -16,6 +16,7 @@
     - [Libraries](https://github.com/nataliaburrey/blockchain_based_ledger#libraries)
     - [Work with GitHub](https://github.com/nataliaburrey/blockchain_based_ledger#work-with-github)
     - [How to install](https://github.com/nataliaburrey/blockchain_based_ledger#how-to-install)
+    - [Run Streamlit](https://github.com/nataliaburrey/blockchain_based_ledger#run-streamlit)
 - [Helps recruiters](https://github.com/nataliaburrey/blockchain_based_ledger#helps-recruiters)
 - [License](https://github.com/nataliaburrey/blockchain_based_ledger#license)
 
@@ -111,7 +112,7 @@ now you can find repo on your desktop
 * Choose [ pychain.py ] file to see the file in VS code application .
 
 
-#### Run streamlit
+### Run streamlit
 
 1. In the terminal, navigate to the repository folder
 
@@ -132,6 +133,8 @@ The project was created in collaboration with Berkeley Fintech Bootcamp team
 ## License
 
 [MIT](https://github.com/nataliaburrey/blockchain_based_ledger/blob/main/LICENSE)
+
+
 
 📔 Contact me: 
 📩 nataliaburrey@gmail.com
