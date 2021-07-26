@@ -10,14 +10,14 @@
 
 
 ## Table of content
-- [Overview of the project and project goals]() 
-- [Project steps]()
-- [Software version control](https://github.com/nataliaburrey/Machine_Learning_Trading_Bot/blob/main/README.md#software-version-control)
-    - [Libraries](https://github.com/nataliaburrey/Machine_Learning_Trading_Bot/blob/main/README.md#libraries)
-    - [Work with GitHub](https://github.com/nataliaburrey/Machine_Learning_Trading_Bot/blob/main/README.md#work-with-github)
-    - [How to install](https://github.com/nataliaburrey/Machine_Learning_Trading_Bot/blob/main/README.md#how-to-install)
-- [Helps recruiters](https://github.com/nataliaburrey/Machine_Learning_Trading_Bot/blob/main/README.md#helps-recruiters)
-- [License](https://github.com/nataliaburrey/Machine_Learning_Trading_Bot/blob/main/README.md#license)
+- [Overview of the project and project goals](https://github.com/nataliaburrey/blockchain_based_ledger#overview-of-the-project-and-project-goals) 
+- [Project steps](https://github.com/nataliaburrey/blockchain_based_ledger#project-steps)
+- [Software version control](https://github.com/nataliaburrey/blockchain_based_ledger#software-version-control)
+    - [Libraries](https://github.com/nataliaburrey/blockchain_based_ledger#libraries)
+    - [Work with GitHub](https://github.com/nataliaburrey/blockchain_based_ledger#work-with-github)
+    - [How to install](https://github.com/nataliaburrey/blockchain_based_ledger#how-to-install)
+- [Helps recruiters](https://github.com/nataliaburrey/blockchain_based_ledger#helps-recruiters)
+- [License](https://github.com/nataliaburrey/blockchain_based_ledger#license)
 
 
 
@@ -64,14 +64,6 @@ https://user-images.githubusercontent.com/80833988/127045133-617e4da6-f4ae-415b-
 
 
 ### Libraries 
-*  Pandas - is a software library designed for data analytics that makes it easier to work with data from practically any type of file. Pandas supplies powerful tools for working with time data in particular, and time is a key aspect of financial analysis. Analysts typically compare and measure financial assets—from single stocks to large portfolios—across time.
-* Streamlit- is an open-source app framework for Machine Learning and Data Science teams.
-* Dataclasses-a utility tool to make structured classes specially for storing data. These classes hold certain properties and functions to deal specifically with the data and its representation.
-* Typing-provides runtime support for type hints. The most fundamental support consists of the types Any, Union, Tuple, Callable, TypeVar, and Generic.
-* Datetime-supplies classes for manipulating dates and times.
-* Hashlib-Python hashlib hashing function takes variable length of bytes and converts it into a fixed length sequence. This is a one way function. 
-
-
 
 ##### Following libraries were imported
 
@@ -86,6 +78,13 @@ import pandas as pd
 import hashlib
 
 ```
+*  Pandas - is a software library designed for data analytics that makes it easier to work with data from practically any type of file. Pandas supplies powerful tools for working with time data in particular, and time is a key aspect of financial analysis. Analysts typically compare and measure financial assets—from single stocks to large portfolios—across time.
+* Streamlit- is an open-source app framework for Machine Learning and Data Science teams.
+* Dataclasses-a utility tool to make structured classes specially for storing data. These classes hold certain properties and functions to deal specifically with the data and its representation.
+* Typing-provides runtime support for type hints. The most fundamental support consists of the types Any, Union, Tuple, Callable, TypeVar, and Generic.
+* Datetime-supplies classes for manipulating dates and times.
+* Hashlib-Python hashlib hashing function takes variable length of bytes and converts it into a fixed length sequence. This is a one way function. 
+
 
 
  
@@ -121,7 +120,7 @@ The project was created in collaboration with Berkeley Fintech Bootcamp team
 
 ## License
 
-[MIT]()
+[MIT](https://github.com/nataliaburrey/blockchain_based_ledger/blob/main/LICENSE)
 
 📔 Contact me: 
 📩 nataliaburrey@gmail.com
